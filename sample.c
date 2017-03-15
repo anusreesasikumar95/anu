@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("First programme");
+printf("programme");
 return 0;
 }
